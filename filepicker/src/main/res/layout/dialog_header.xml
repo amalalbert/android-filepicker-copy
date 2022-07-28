@@ -63,6 +63,7 @@
             android:layout_marginStart="16dp"
             style="?android:attr/textViewStyle"
             android:background="@null"
+            android:visibility= "gone"
             android:textColor="@color/textColorSecondary"/>
     </LinearLayout>
 </LinearLayout>
